@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Tendou Aris",
+		"profile": "/aris.png",
+		"school": "Millennium",
+		"club": "Game Development Department"
+	},
+	{
+		"name": "Hanaoka Yuzu",
+		"profile": "/yuzu.png",
+		"school": "Millennium",
+		"club": "Game Development Department"
+	},
+	{
+		"name": "Saiba Momoi",
+		"profile": "/momoi.png",
+		"school": "Millennium",
+		"club": "Game Development Department"
+	},
+	{
+		"name": "Saiba Midori",
+		"profile": "/midori.png",
+		"school": "Millennium",
+		"club": "Game Development Department"
+	}
+]
